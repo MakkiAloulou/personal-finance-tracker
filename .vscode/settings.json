@@ -1,0 +1,13 @@
+{
+    "dart.flutterSdkPath": "C:\\tools\\flutter\\bin",
+    "dart.sdkPath": "C:\\tools\\flutter\\bin",
+    "dart.debugExternalLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "jdk.advanced.disable.nbjavac": false,
+    "dart.sortMembersOnSave": true
+}
